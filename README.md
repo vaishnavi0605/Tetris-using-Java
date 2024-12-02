@@ -1,1 +1,1 @@
-# Tetris-using-Java
+# Tetris-in-java
